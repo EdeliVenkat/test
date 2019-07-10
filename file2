@@ -1,0 +1,14 @@
+ls -la
+ls list all the repository
+pwd present working dir.
+touch f2 f3 fr f4 f5
+vi editor  work space 
+git status 
+git add . for status of staging
+green i.e it is at workspace
+git commit -m "file name"
+git status nothing (white) 
+git branch name
+git  checkout name
+git exit
+
